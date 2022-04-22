@@ -12,7 +12,7 @@ It is very simple. Just go to [this](https://harinandan123.netlify.app/) website
 Honestly, it took me a long time to build this website. This website is built with HTML, CSS and JavaScript. Its under development so you may experience lagginess.
 
 ## How I hosted it?
-I hosted this website on [Netlify](https://www.netlify.com) Netlify lets you host websites for free with auto https etc
+I hosted this website on [Netlify](https://www.netlify.com). Netlify lets you host websites for free with auto https etc
 
 ## License
 
