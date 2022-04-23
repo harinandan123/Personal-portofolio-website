@@ -1,0 +1,4 @@
+#Ignore the tokens
+.env/
+
+*.env/
